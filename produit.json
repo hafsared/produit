@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Seamless Leggings",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1600180758895-71a7b4b9c1db?q=80&w=800&auto=format"
+  },
+  {
+    "id": 2,
+    "name": "Sports Bra",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1599940824399-b87987ceb72e?q=80&w=800&auto=format"
+  },
+  {
+    "id": 3,
+    "name": "Oversized Pump Cover",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1607345366928-ef8b27eab51c?q=80&w=800&auto=format"
+  },
+  {
+    "id": 4,
+    "name": "Seamless 2-Piece Set",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1584466977773-e625c37cdd50?q=80&w=800&auto=format"
+  },
+  {
+    "id": 5,
+    "name": "Training Shorts",
+    "price": 22.99,
+    "image": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?q=80&w=800&auto=format"
+  },
+  {
+    "id": 6,
+    "name": "Long Sleeve Crop Top",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07a?q=80&w=800&auto=format"
+  }
+]
+
