@@ -1,174 +1,170 @@
 [
-     {
-      "id": 1,
-      "name": "Oversized Zip Up Fleece Jacket",
-      "color": "Brown",
-      "price": "55.00",
-      "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_5174-1.jpg?v=1755871406&width=1800"
-    },
-    {
-      "id": 2,
-      "name": "Oversized Zip Up Fleece Jacket",
-      "color": "Cream",
-      "price": "55.00",
-      "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_4576_0529bb15-9694-494e-91ea-e3dc472ff935.jpg?v=1755871405&width=1800"
-    },
-    {
-      "id": 3,
-      "name": "Oversized Zip Up Fleece Jacket",
-      "color": "Black",
-      "price": "55.00",
-      "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_5318.jpg?v=1755871406&width=1800"
-    },
-    {
-      "id": 4,
-      "name": "Varsity 2.0 Oversized Hoodie",
-      "color": "Blue/Navy",
-      "price": "48.00",
-      "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed9782.jpg-cropped.jpg?v=1761839258&width=1800"
-    },
-    {
-      "id": 5,
-      "name": "Varsity 2.0 Oversized Straight Leg Joggers",
-      "color": "Blue/Navy",
-      "price": "48.00",
-      "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed9897.jpg?v=1761839258&width=1800"
-    },
-    {
-      "id": 6,
-      "name": "Sculpt Backless All In One",
-      "color": "Deep Navy",
-      "price": "40.00",
-      "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed10455.jpg?v=1764062053&width=1800"
-    },
-    {
-      "id": 7,
-      "name": "Sculpt Backless Flared All In One",
-      "color": "Deep Cocoa Brown",
-      "price": "42.00",
-      "image": "https://www.aybl.com/cdn/shop/files/10.11---WOMENS2916.jpg?v=1765199688&width=1800"
-    },
-    {
-      "id": 8,
-      "name": "Sculpt Backless All In One",
-      "color": "Deep Cocoa Brown",
-      "price": "40.00",
-      "image": "https://www.aybl.com/cdn/shop/files/10.11---WOMENS2616.jpg?v=1764062053&width=1800"
-    },
-    {
-      "id": 9,
-      "name": "Sculpt Backless Flared All In One",
-      "color": "Deep Navy",
-      "price": "42.00",
-      "image": "https://www.aybl.com/cdn/shop/files/10.11.25---Womens1042.jpg?v=1765199678&width=1800"
-    },
-    {
-      "id": 10,
-      "name": "Sculpt Backless Legging All In One",
-      "color": "Black",
-      "price": "42.00",
-      "image": "https://www.aybl.com/cdn/shop/files/14.11---Womens6122.jpg?v=1765199669&width=1800"
-    },
-    {
-      "id": 11,
-      "name": "Sculpt Backless Legging All In One",
-      "color": "Deep Navy",
-      "price": "42.00",
-      "image": "https://www.aybl.com/cdn/shop/files/10.11.25---Womens1155.jpg?v=1765199638&width=1800"
-    },
-    {
-      "id": 12,
-      "name": "Sculpt Backless Legging All In One",
-      "color": "Deep Cocoa Brown",
-      "price": "42.00",
-      "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed10879.jpg?v=1765199647&width=1800"
-    }
-    {
-      "id": 13,
-      "name": "Reinforce Training T Shirt",
-      "color": "Black",
-      "price": "28.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16636.jpg?v=1761560758&width=1800"
-    },
-    {
-      "id": 14,
-      "name": "Reinforce Training T Shirt",
-      "color": "Tawny Brown",
-      "price": "28.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16433.jpg?v=1761560757&width=1800"
-    },
-    {
-      "id": 15,
-      "name": "Reinforce Training Tank",
-      "color": "Black",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15840.jpg?v=1761560749&width=1800"
-    },
-    {
-      "id": 16,
-      "name": "Reinforce Training Tank",
-      "color": "Clay Grey",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16199.jpg?v=1761560754&width=1800"
-    },
-    {
-      "id": 17,
-      "name": "Reinforce Training Tank",
-      "color": "White",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15725.jpg?v=1761560749&width=1800"
-    },
-    {
-      "id": 18,
-      "name": "Reinforce Training Tank",
-      "color": "Tawny Brown",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16497.jpg?v=1761560749&width=1800"
-    },
-    {
-      "id": 19,
-      "name": "Athletics Script Oversized T Shirt",
-      "color": "Vintage Blue",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15415_6d2cc29c-9ec8-4150-9763-4b8088ba3d2e.jpg?v=1764770724&width=1800"
-    },
-    {
-      "id": 20,
-      "name": "Athletics Script Oversized T Shirt",
-      "color": "Olive Sand",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15482.jpg?v=1764770724&width=1800"
-    },
-    {
-      "id": 21,
-      "name": "Future Fitness Oversized T Shirt",
-      "color": "Charcoal/Mauve",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15635.jpg-cropped.jpg?v=1764770719&width=1800"
-    },
-    {
-      "id": 22,
-      "name": "Future Fitness Oversized T Shirt",
-      "color": "Dusty Sand",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15596.jpg?v=1764770724&width=1800"
-    },
-    {
-      "id": 23,
-      "name": "Team AYBL Oversized T Shirt",
-      "color": "Black/Yellow",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens14907.jpg?v=1764770715&width=1800"
-    },
-    {
-      "id": 24,
-      "name": "Built for Lifters Oversized T Shirt",
-      "color": "Navy",
-      "price": "24.00",
-      "image": "https://www.aybl.com/cdn/shop/files/25.11---Womens9251_d9f82519-fbb7-47c4-b2da-c78a70ea8ab5.jpg?v=1764770720&width=1800"
-    }
-  ]
-
-
-
-
+  {
+    "id": 1,
+    "name": "Oversized Zip Up Fleece Jacket",
+    "color": "Brown",
+    "price": "55.00",
+    "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_5174-1.jpg?v=1755871406&width=1800"
+  },
+  {
+    "id": 2,
+    "name": "Oversized Zip Up Fleece Jacket",
+    "color": "Cream",
+    "price": "55.00",
+    "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_4576_0529bb15-9694-494e-91ea-e3dc472ff935.jpg?v=1755871405&width=1800"
+  },
+  {
+    "id": 3,
+    "name": "Oversized Zip Up Fleece Jacket",
+    "color": "Black",
+    "price": "55.00",
+    "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_5318.jpg?v=1755871406&width=1800"
+  },
+  {
+    "id": 4,
+    "name": "Varsity 2.0 Oversized Hoodie",
+    "color": "Blue/Navy",
+    "price": "48.00",
+    "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed9782.jpg-cropped.jpg?v=1761839258&width=1800"
+  },
+  {
+    "id": 5,
+    "name": "Varsity 2.0 Oversized Straight Leg Joggers",
+    "color": "Blue/Navy",
+    "price": "48.00",
+    "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed9897.jpg?v=1761839258&width=1800"
+  },
+  {
+    "id": 6,
+    "name": "Sculpt Backless All In One",
+    "color": "Deep Navy",
+    "price": "40.00",
+    "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed10455.jpg?v=1764062053&width=1800"
+  },
+  {
+    "id": 7,
+    "name": "Sculpt Backless Flared All In One",
+    "color": "Deep Cocoa Brown",
+    "price": "42.00",
+    "image": "https://www.aybl.com/cdn/shop/files/10.11---WOMENS2916.jpg?v=1765199688&width=1800"
+  },
+  {
+    "id": 8,
+    "name": "Sculpt Backless All In One",
+    "color": "Deep Cocoa Brown",
+    "price": "40.00",
+    "image": "https://www.aybl.com/cdn/shop/files/10.11---WOMENS2616.jpg?v=1764062053&width=1800"
+  },
+  {
+    "id": 9,
+    "name": "Sculpt Backless Flared All In One",
+    "color": "Deep Navy",
+    "price": "42.00",
+    "image": "https://www.aybl.com/cdn/shop/files/10.11.25---Womens1042.jpg?v=1765199678&width=1800"
+  },
+  {
+    "id": 10,
+    "name": "Sculpt Backless Legging All In One",
+    "color": "Black",
+    "price": "42.00",
+    "image": "https://www.aybl.com/cdn/shop/files/14.11---Womens6122.jpg?v=1765199669&width=1800"
+  },
+  {
+    "id": 11,
+    "name": "Sculpt Backless Legging All In One",
+    "color": "Deep Navy",
+    "price": "42.00",
+    "image": "https://www.aybl.com/cdn/shop/files/10.11.25---Womens1155.jpg?v=1765199638&width=1800"
+  },
+  {
+    "id": 12,
+    "name": "Sculpt Backless Legging All In One",
+    "color": "Deep Cocoa Brown",
+    "price": "42.00",
+    "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed10879.jpg?v=1765199647&width=1800"
+  },
+  {
+    "id": 13,
+    "name": "Reinforce Training T Shirt",
+    "color": "Black",
+    "price": "28.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16636.jpg?v=1761560758&width=1800"
+  },
+  {
+    "id": 14,
+    "name": "Reinforce Training T Shirt",
+    "color": "Tawny Brown",
+    "price": "28.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16433.jpg?v=1761560757&width=1800"
+  },
+  {
+    "id": 15,
+    "name": "Reinforce Training Tank",
+    "color": "Black",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15840.jpg?v=1761560749&width=1800"
+  },
+  {
+    "id": 16,
+    "name": "Reinforce Training Tank",
+    "color": "Clay Grey",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16199.jpg?v=1761560754&width=1800"
+  },
+  {
+    "id": 17,
+    "name": "Reinforce Training Tank",
+    "color": "White",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15725.jpg?v=1761560749&width=1800"
+  },
+  {
+    "id": 18,
+    "name": "Reinforce Training Tank",
+    "color": "Tawny Brown",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16497.jpg?v=1761560749&width=1800"
+  },
+  {
+    "id": 19,
+    "name": "Athletics Script Oversized T Shirt",
+    "color": "Vintage Blue",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15415_6d2cc29c-9ec8-4150-9763-4b8088ba3d2e.jpg?v=1764770724&width=1800"
+  },
+  {
+    "id": 20,
+    "name": "Athletics Script Oversized T Shirt",
+    "color": "Olive Sand",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15482.jpg?v=1764770724&width=1800"
+  },
+  {
+    "id": 21,
+    "name": "Future Fitness Oversized T Shirt",
+    "color": "Charcoal/Mauve",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15635.jpg-cropped.jpg?v=1764770719&width=1800"
+  },
+  {
+    "id": 22,
+    "name": "Future Fitness Oversized T Shirt",
+    "color": "Dusty Sand",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15596.jpg?v=1764770724&width=1800"
+  },
+  {
+    "id": 23,
+    "name": "Team AYBL Oversized T Shirt",
+    "color": "Black/Yellow",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens14907.jpg?v=1764770715&width=1800"
+  },
+  {
+    "id": 24,
+    "name": "Built for Lifters Oversized T Shirt",
+    "color": "Navy",
+    "price": "24.00",
+    "image": "https://www.aybl.com/cdn/shop/files/25.11---Womens9251_d9f82519-fbb7-47c4-b2da-c78a70ea8ab5.jpg?v=1764770720&width=1800"
+  }
+]
