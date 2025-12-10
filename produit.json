@@ -2,121 +2,86 @@
     {
       "id": 1,
       "name": "Reinforce Training T Shirt",
-      "full_name": "Reinforce Training T Shirt - Black",
       "color": "Black",
-      "price": "£28.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16636.jpg?v=1761560758&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16640.jpg?v=1761560758&width=1800",
-      "link": "https://www.aybl.com/products/reinforce-training-t-shirt-black"
+      "price": "28.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16636.jpg?v=1761560758&width=1800"
     },
     {
       "id": 2,
       "name": "Reinforce Training T Shirt",
-      "full_name": "Reinforce Training T Shirt - Tawny Brown",
       "color": "Tawny Brown",
-      "price": "£28.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16433.jpg?v=1761560757&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16444.jpg?v=1761560757&width=1800",
-      "link": "https://www.aybl.com/products/reinforce-training-t-shirt-tawny-brown"
+      "price": "28.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16433.jpg?v=1761560757&width=1800"
     },
     {
       "id": 3,
       "name": "Reinforce Training Tank",
-      "full_name": "Reinforce Training Tank - Black",
       "color": "Black",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15840.jpg?v=1761560749&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15856.jpg?v=1761560749&width=1800",
-      "link": "https://www.aybl.com/products/reinforce-training-tank-black"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15840.jpg?v=1761560749&width=1800"
     },
     {
       "id": 4,
       "name": "Reinforce Training Tank",
-      "full_name": "Reinforce Training Tank - Clay Grey",
       "color": "Clay Grey",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16199.jpg?v=1761560754&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16213.jpg?v=1761560749&width=1800",
-      "link": "https://www.aybl.com/products/reinforce-training-tank-clay-grey"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16199.jpg?v=1761560754&width=1800"
     },
     {
       "id": 5,
       "name": "Reinforce Training Tank",
-      "full_name": "Reinforce Training Tank - White",
       "color": "White",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15725.jpg?v=1761560749&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15741.jpg?v=1761560749&width=1800",
-      "link": "https://www.aybl.com/products/reinforce-training-tank-white"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15725.jpg?v=1761560749&width=1800"
     },
     {
       "id": 6,
       "name": "Reinforce Training Tank",
-      "full_name": "Reinforce Training Tank - Tawny Brown",
       "color": "Tawny Brown",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16497.jpg?v=1761560749&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16512.jpg?v=1761560749&width=1800",
-      "link": "https://www.aybl.com/products/reinforce-training-tank-tawny-brown"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens16497.jpg?v=1761560749&width=1800"
     },
     {
       "id": 7,
       "name": "Athletics Script Oversized T Shirt",
-      "full_name": "Athletics Script Oversized T Shirt - Vintage Blue",
       "color": "Vintage Blue",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15415_6d2cc29c-9ec8-4150-9763-4b8088ba3d2e.jpg?v=1764770724&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15383_b52cfb2f-a62f-4b15-b109-b8ac31e89bd7.jpg?v=1764770724&width=1800",
-      "link": "https://www.aybl.com/products/athletics-script-oversized-t-shirt-vintage-blue"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15415_6d2cc29c-9ec8-4150-9763-4b8088ba3d2e.jpg?v=1764770724&width=1800"
     },
     {
       "id": 8,
       "name": "Athletics Script Oversized T Shirt",
-      "full_name": "Athletics Script Oversized T Shirt - Olive Sand",
       "color": "Olive Sand",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15482.jpg?v=1764770724&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15446.jpg-cropped.jpg?v=1764770723&width=1800",
-      "link": "https://www.aybl.com/products/athletics-script-oversized-t-shirt-olive-sand"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15482.jpg?v=1764770724&width=1800"
     },
     {
       "id": 9,
       "name": "Future Fitness Oversized T Shirt",
-      "full_name": "Future Fitness Oversized T Shirt - Charcoal/Mauve",
       "color": "Charcoal/Mauve",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15635.jpg-cropped.jpg?v=1764770719&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15631.jpg?v=1764770719&width=1800",
-      "link": "https://www.aybl.com/products/future-fitness-oversized-t-shirt-charcoal-mauve"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15635.jpg-cropped.jpg?v=1764770719&width=1800"
     },
     {
       "id": 10,
       "name": "Future Fitness Oversized T Shirt",
-      "full_name": "Future Fitness Oversized T Shirt - Dusty Sand",
       "color": "Dusty Sand",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15596.jpg?v=1764770724&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15584.jpg?v=1764770724&width=1800",
-      "link": "https://www.aybl.com/products/future-fitness-oversized-t-shirt-dusty-sand"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens15596.jpg?v=1764770724&width=1800"
     },
     {
       "id": 11,
       "name": "Team AYBL Oversized T Shirt",
-      "full_name": "Team AYBL Oversized T Shirt - Black/Yellow",
       "color": "Black/Yellow",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/01.10.25---mens14907.jpg?v=1764770715&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/01.10.25---mens14892.jpg?v=1764770715&width=1800",
-      "link": "https://www.aybl.com/products/team-aybl-oversized-t-shirt-black-yellow"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/01.10.25---mens14907.jpg?v=1764770715&width=1800"
     },
     {
       "id": 12,
       "name": "Built for Lifters Oversized T Shirt",
-      "full_name": "Built for Lifters Oversized T Shirt - Navy",
       "color": "Navy",
-      "price": "£24.00",
-      "preview1": "https://www.aybl.com/cdn/shop/files/25.11---Womens9251_d9f82519-fbb7-47c4-b2da-c78a70ea8ab5.jpg?v=1764770720&width=1800",
-      "preview2": "https://www.aybl.com/cdn/shop/files/25.11---Womens9237.jpg?v=1764770720&width=1800",
-      "link": "https://www.aybl.com/products/built-for-lifters-oversized-t-shirt-navy"
+      "price": "24.00",
+      "image": "https://www.aybl.com/cdn/shop/files/25.11---Womens9251_d9f82519-fbb7-47c4-b2da-c78a70ea8ab5.jpg?v=1764770720&width=1800"
     }
   ]
+
