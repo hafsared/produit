@@ -3,84 +3,84 @@
       "id": 1,
       "name": "Oversized Zip Up Fleece Jacket",
       "color": "Brown",
-      "price": "£55.00",
+      "price": "55.00",
       "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_5174-1.jpg?v=1755871406&width=1800"
     },
     {
       "id": 2,
       "name": "Oversized Zip Up Fleece Jacket",
       "color": "Cream",
-      "price": "£55.00",
+      "price": "55.00",
       "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_4576_0529bb15-9694-494e-91ea-e3dc472ff935.jpg?v=1755871405&width=1800"
     },
     {
       "id": 3,
       "name": "Oversized Zip Up Fleece Jacket",
       "color": "Black",
-      "price": "£55.00",
+      "price": "55.00",
       "image": "https://www.aybl.com/cdn/shop/files/07.08.25---Mixed-_AM_5318.jpg?v=1755871406&width=1800"
     },
     {
       "id": 4,
       "name": "Varsity 2.0 Oversized Hoodie",
       "color": "Blue/Navy",
-      "price": "£48.00",
+      "price": "48.00",
       "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed9782.jpg-cropped.jpg?v=1761839258&width=1800"
     },
     {
       "id": 5,
       "name": "Varsity 2.0 Oversized Straight Leg Joggers",
       "color": "Blue/Navy",
-      "price": "£48.00",
+      "price": "48.00",
       "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed9897.jpg?v=1761839258&width=1800"
     },
     {
       "id": 6,
       "name": "Sculpt Backless All In One",
       "color": "Deep Navy",
-      "price": "£40.00",
+      "price": "40.00",
       "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed10455.jpg?v=1764062053&width=1800"
     },
     {
       "id": 7,
       "name": "Sculpt Backless Flared All In One",
       "color": "Deep Cocoa Brown",
-      "price": "£42.00",
+      "price": "42.00",
       "image": "https://www.aybl.com/cdn/shop/files/10.11---WOMENS2916.jpg?v=1765199688&width=1800"
     },
     {
       "id": 8,
       "name": "Sculpt Backless All In One",
       "color": "Deep Cocoa Brown",
-      "price": "£40.00",
+      "price": "40.00",
       "image": "https://www.aybl.com/cdn/shop/files/10.11---WOMENS2616.jpg?v=1764062053&width=1800"
     },
     {
       "id": 9,
       "name": "Sculpt Backless Flared All In One",
       "color": "Deep Navy",
-      "price": "£42.00",
+      "price": "42.00",
       "image": "https://www.aybl.com/cdn/shop/files/10.11.25---Womens1042.jpg?v=1765199678&width=1800"
     },
     {
       "id": 10,
       "name": "Sculpt Backless Legging All In One",
       "color": "Black",
-      "price": "£42.00",
+      "price": "42.00",
       "image": "https://www.aybl.com/cdn/shop/files/14.11---Womens6122.jpg?v=1765199669&width=1800"
     },
     {
       "id": 11,
       "name": "Sculpt Backless Legging All In One",
       "color": "Deep Navy",
-      "price": "£42.00",
+      "price": "42.00",
       "image": "https://www.aybl.com/cdn/shop/files/10.11.25---Womens1155.jpg?v=1765199638&width=1800"
     },
     {
       "id": 12,
       "name": "Sculpt Backless Legging All In One",
       "color": "Deep Cocoa Brown",
-      "price": "£42.00",
+      "price": "42.00",
       "image": "https://www.aybl.com/cdn/shop/files/25.09---mixed10879.jpg?v=1765199647&width=1800"
     }
     {
@@ -168,5 +168,6 @@
       "image": "https://www.aybl.com/cdn/shop/files/25.11---Womens9251_d9f82519-fbb7-47c4-b2da-c78a70ea8ab5.jpg?v=1764770720&width=1800"
     }
   ]
+
 
 
